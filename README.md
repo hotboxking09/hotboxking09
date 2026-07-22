@@ -36,3 +36,5 @@ Ich bin **Oliver-Frank Pristaff**, Gründer und Entwickler von **JARVIS SYSTEM**
 ---
 
 Copyright © 2026 Oliver-Frank Pristaff. All rights reserved. Dieses Profil erteilt keine Open-Source- oder Wiederverwendungslizenz für JARVIS SYSTEM. Keine ISO-Verteilung.
+
+<!-- Official profile presentation: https://jarvisserver.org -->
