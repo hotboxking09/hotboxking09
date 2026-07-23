@@ -25,6 +25,7 @@ Ich bin **Oliver-Frank Pristaff**, Gründer und Entwickler von **JARVIS SYSTEM**
 
 - **Offizielle Website:** [jarvisserver.org](https://jarvisserver.org)
 - **Offizielle Community:** [JARVIS SYSTEM // COMMUNITY](https://discord.gg/DWBwuUhXmv)
+- **Community-Dokumentation:** [Aufbau, Onboarding und Rollenmatrix](https://jarvisserver.org/community/)
 - **JARVIS OS:** [Systemübersicht](https://jarvisserver.org/jarvis-os/)
 - **Technik:** [Architektur und Komponenten](https://jarvisserver.org/technik/)
 - **Entwicklungslog:** [Aktuelle Updates](https://jarvisserver.org/updates/)
