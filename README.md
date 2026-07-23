@@ -24,12 +24,21 @@ Ich bin **Oliver-Frank Pristaff**, Gründer und Entwickler von **JARVIS SYSTEM**
 ### Project Uplink
 
 - **Offizielle Website:** [jarvisserver.org](https://jarvisserver.org)
+- **Offizielle Community:** [JARVIS SYSTEM // COMMUNITY](https://discord.gg/DWBwuUhXmv)
 - **JARVIS OS:** [Systemübersicht](https://jarvisserver.org/jarvis-os/)
 - **Technik:** [Architektur und Komponenten](https://jarvisserver.org/technik/)
 - **Entwicklungslog:** [Aktuelle Updates](https://jarvisserver.org/updates/)
 - **Roadmap:** [Nächste Entwicklungsphasen](https://jarvisserver.org/roadmap/)
 - **Gründerstory:** [The Story Behind JARVIS SYSTEM](https://jarvisserver.org/gruender/)
 - **Öffentliches Website-Repository:** [jarvis-systems-website](https://github.com/hotboxking09/jarvis-systems-website)
+
+### Community Core
+
+Der offizielle Discord verbindet Interessierte, Tester, Hardware-Enthusiasten,
+Entwickler und Gamer. Eigene Bereiche für JARVIS OS, Architektur, UEFI/Boot,
+Linux/Kernel, Tests, Fehlerberichte, Community-Talks und Gaming halten technische
+Arbeit und lockeren Austausch sauber strukturiert. Eine öffentliche ISO wird
+dadurch nicht vorzeitig freigegeben.
 
 <p align="center"><strong>BUILD HONESTLY · TEST DEEPLY · DOCUMENT EVERYTHING</strong></p>
 
