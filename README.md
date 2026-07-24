@@ -11,6 +11,8 @@
   &nbsp;·&nbsp;
   <a href="https://x.com/JarvisSystemCH"><strong>X / @JarvisSystemCH</strong></a>
   &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/oliver-frank-pristaff/"><strong>LINKEDIN</strong></a>
+  &nbsp;·&nbsp;
   <a href="https://discord.gg/DWBwuUhXmv"><strong>DISCORD</strong></a>
 </p>
 
@@ -33,6 +35,7 @@ Ich bin **Oliver-Frank Pristaff**, Gründer und Entwickler von **JARVIS SYSTEM**
 - **Zentrales Linkverzeichnis:** [JARVIS Network](https://jarvisserver.org/connect/)
 - **Offizielle Website:** [jarvisserver.org](https://jarvisserver.org)
 - **X / Engineering Signals:** [@JarvisSystemCH](https://x.com/JarvisSystemCH)
+- **LinkedIn / Gründerprofil:** [Oliver-Frank Pristaff](https://www.linkedin.com/in/oliver-frank-pristaff/)
 - **Offizielle Community:** [JARVIS SYSTEM // COMMUNITY](https://discord.gg/DWBwuUhXmv)
 - **Community-Dokumentation:** [Aufbau, Onboarding und Rollenmatrix](https://jarvisserver.org/community/)
 - **JARVIS OS:** [Systemübersicht](https://jarvisserver.org/jarvis-os/)
