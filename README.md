@@ -6,6 +6,13 @@
 
 <h1 align="center">JARVIS SYSTEM</h1>
 <p align="center"><strong>Independent Operating System Project · Switzerland</strong></p>
+<p align="center">
+  <a href="https://jarvisserver.org/connect/"><strong>OFFICIAL NETWORK</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/JarvisSystemCH"><strong>X / @JarvisSystemCH</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://discord.gg/DWBwuUhXmv"><strong>DISCORD</strong></a>
+</p>
 
 ## Grüezi, ich bin Oliver
 
@@ -23,7 +30,9 @@ Ich bin **Oliver-Frank Pristaff**, Gründer und Entwickler von **JARVIS SYSTEM**
 
 ### Project Uplink
 
+- **Zentrales Linkverzeichnis:** [JARVIS Network](https://jarvisserver.org/connect/)
 - **Offizielle Website:** [jarvisserver.org](https://jarvisserver.org)
+- **X / Engineering Signals:** [@JarvisSystemCH](https://x.com/JarvisSystemCH)
 - **Offizielle Community:** [JARVIS SYSTEM // COMMUNITY](https://discord.gg/DWBwuUhXmv)
 - **Community-Dokumentation:** [Aufbau, Onboarding und Rollenmatrix](https://jarvisserver.org/community/)
 - **JARVIS OS:** [Systemübersicht](https://jarvisserver.org/jarvis-os/)
